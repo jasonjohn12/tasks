@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "task": "do the dishes",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "task": "clean the room",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "task": "submit code",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "task": "code reivew",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
